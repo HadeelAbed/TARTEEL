@@ -1,0 +1,6 @@
+{
+  "name": "TARTEEL Design System & Specification",
+  "description": "Production-ready multi-platform design specification and interactive prototype for TARTEEL (ترتيل) — a premium Quran memorization and interactive recitation platform for Arabic-speaking children and adults in Modern Glass & Obsidian aesthetic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
